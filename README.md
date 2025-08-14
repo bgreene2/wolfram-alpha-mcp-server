@@ -17,7 +17,7 @@ This is an MCP (Model Context Protocol) server that provides access to the Wolfr
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/bgreene2/wolfram-alpha-mcp-server.git
    cd wolfram-alpha-mcp-server
    ```
 
