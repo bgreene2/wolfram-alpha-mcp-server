@@ -1,0 +1,1 @@
+# wolfram-alpha-mcp-server
